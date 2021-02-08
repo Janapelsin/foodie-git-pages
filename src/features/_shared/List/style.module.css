@@ -1,0 +1,14 @@
+.list {
+    transition: height .3s;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    position: relative;
+    z-index: 1;
+}
+
+.placeholder {
+    width: 100%;
+    text-align: center;
+    padding-top: 60px;
+    font-size: 18px;
+}

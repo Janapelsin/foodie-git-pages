@@ -1,0 +1,20 @@
+.labelIcon {
+    color: white;
+    min-width: 40px;
+    height: 100%;
+    padding: 10px;
+    background-color: none;
+    border-right: solid 1px rgba(0, 0, 0, .5);
+    color: var(--secondary-text);
+    transition: color .3s;
+}
+
+.labelIcon_active {
+    composes: labelIcon;
+    color: var(--highlight-color);
+}
+
+.labelIcon_error {
+    composes: labelIcon;
+    color: var(--danger);
+}

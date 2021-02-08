@@ -1,0 +1,15 @@
+.inlineButton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+    border: none;
+    color: white;
+    min-width: 40px;
+    height: 100%;
+    background: var(--primary-green);
+}
+
+.inlineButton:active {
+    color: var(--highlight-color);
+}

@@ -1,0 +1,3 @@
+export const SET_CURRENT_USER_ID = "SET_CURRENT_USER_ID";
+export const SET_USER_STATUS = "SET_USER_STATUS";
+export const RESET_USER = "RESET_USER";
