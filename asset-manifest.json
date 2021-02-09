@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/foodie-git-pages/static/css/main.dde822f9.chunk.css",
+    "main.css": "/foodie-git-pages/static/css/main.111c1b98.chunk.css",
     "main.js": "/foodie-git-pages/static/js/main.8188b67c.chunk.js",
     "main.js.map": "/foodie-git-pages/static/js/main.8188b67c.chunk.js.map",
     "runtime-main.js": "/foodie-git-pages/static/js/runtime-main.51f1a0b7.js",
@@ -10,13 +10,13 @@
     "static/js/3.8b7fdf9f.chunk.js": "/foodie-git-pages/static/js/3.8b7fdf9f.chunk.js",
     "static/js/3.8b7fdf9f.chunk.js.map": "/foodie-git-pages/static/js/3.8b7fdf9f.chunk.js.map",
     "index.html": "/foodie-git-pages/index.html",
-    "static/css/main.dde822f9.chunk.css.map": "/foodie-git-pages/static/css/main.dde822f9.chunk.css.map",
+    "static/css/main.111c1b98.chunk.css.map": "/foodie-git-pages/static/css/main.111c1b98.chunk.css.map",
     "static/js/2.3e3c4aff.chunk.js.LICENSE.txt": "/foodie-git-pages/static/js/2.3e3c4aff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.51f1a0b7.js",
     "static/js/2.3e3c4aff.chunk.js",
-    "static/css/main.dde822f9.chunk.css",
+    "static/css/main.111c1b98.chunk.css",
     "static/js/main.8188b67c.chunk.js"
   ]
 }
